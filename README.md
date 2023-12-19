@@ -20,49 +20,49 @@
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-For the purpose of this project, I will be using the findings in the practical audit I conducted combined with threat modeling to understand the risks involved with the organization: https://docs.google.com/spreadsheets/d/17zRvzwwiNtiXcRV9rU4kEA-JNNDUuKhEi1iBXxCatS0/edit?usp=sharing <br/>
+For the purpose of this project, I will be using the findings from the practical audit I conducted, combined with threat modeling, to understand the risks involved with the organization: [Link to the Spreadsheet](https://docs.google.com/spreadsheets/d/17zRvzwwiNtiXcRV9rU4kEA-JNNDUuKhEi1iBXxCatS0/edit?usp=sharing)
 <br />
 <br />
 Step 1:  <br/>
-Based off NIST SP 800-53 (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf), my disposition was that control MP-1 (Media Protection Policy and Procedures) was not in place. <br/>
-<img src="https://i.imgur.com/Ki7wr8F.jpg" <br/>
-Based off the interview with Director of IT, Frank Reynolds, the review of the SOP and SSP, and the threat modeling conducted prior to the audit, I determined that the biggest risk for not having Media Protection policies and procedures in place is unauthorized access. <br/>
-<img src="https://i.imgur.com/U5gOVCG.jpg"
+Based on NIST SP 800-53 ([Link to NIST SP 800-53r5](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)), my disposition was that control MP-1 (Media Protection Policy and Procedures) was not in place. <br/>
+<img src="https://i.imgur.com/Ki7wr8F.jpg" /> <br/>
+Based on the interview with Director of IT, Frank Reynolds, the review of the SOP and SSP, and the threat modeling conducted prior to the audit, I determined that the biggest risk for not having Media Protection policies and procedures in place is unauthorized access. <br/>
+<img src="https://i.imgur.com/U5gOVCG.jpg" />
 <br />
 <br />
 Step 2: <br/>
-From the evidence I gathered in the interview, I can say that a mitigating factor for this risk is a "Tribal knowledge in place" for people within the organization. <br/>
-<img src="https://i.imgur.com/jHrbQZq.jpg"
+From the evidence I gathered in the interview, I can say that a mitigating factor for this risk is "Tribal knowledge in place" for people within the organization. <br/>
+<img src="https://i.imgur.com/jHrbQZq.jpg" />
 <br />
 <br />
 Step 3:  <br/>
-I then used the NIST SP 800-30 (https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) assessment scales for quantitative determination of impact and likelihood of this risk. Understanding these values allows me to consistently determine the risk for each control.
+I then used the NIST SP 800-30 ([Link to NIST SP 800-30r1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)) assessment scales for quantitative determination of impact and likelihood of this risk. Understanding these values allows me to consistently determine the risk for each control.
 <br/><img src="https://i.imgur.com/GgFlIRM.png" height="50%" width="50%" /><br/>
-<br/>
-Using these values, I can objectively determine that the likelihood of unauthorized access would be a 5 (low), and the impact if it were to happen would also be a 5 (low); the overall impact for this risk is a 25/100 (low).
+<br />
+Using these values, I can objectively determine that the likelihood of unauthorized access would be a 5 (low), and the impact if it were to happen would also be a 5 (low); the overall impact for this risk is 25/100 (low).
 <br/><img src="https://i.imgur.com/XTFfHp4.jpg" />
 <br />
 <br />
 Step 4:  <br/>
-My objective, defensible explanation for this risk: "Staff do not know what expectations or standards are, and no process around media protection, storage or sanitization is documented, so may not be done properly. Without standards and policy, no process can be repeated consistently, and staff will develop their own individual processes." <br/>
-<img src="https://i.imgur.com/i5c0MYk.jpg" <br />
+My objective, defensible explanation for this risk: "Staff do not know what expectations or standards are, and no process around media protection, storage, or sanitization is documented, so may not be done properly. Without standards and policy, no process can be repeated consistently, and staff will develop their own individual processes." <br/>
+<img src="https://i.imgur.com/i5c0MYk.jpg" />
 <br />
 <br />
 Step 5:  <br/>
 After completing the risk assessment for Media Access control MP-1, I repeated steps 1-4 for controls MP-2 through MP-8.
 <br/><img src="https://i.imgur.com/ImcETjV.png" height="50%" width="50%" /><br/>
-<br/>
+<br />
 (reference image for evidence gathering as seen in [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing) project)
 <br/><img src="https://i.imgur.com/J5Gd4OG.png" height="50%" width="50%" /><br/> 
-<br/>
+<br />
 Step 6:  <br/>
 I then sorted the spreadsheet by overall risk to prioritize the controls that have the highest risk.
 <br/><img src="https://i.imgur.com/FzZVLZO.png" height="50%" width="50%" /><br/>
-<br/>
+<br />
 Now that I had an organized list of the risks, I created an executive report to effectively communicate the risks with the organization.
 <br/><img src="https://i.imgur.com/kKK1s9r.png" height="50%" width="50%" /><br/>
-<br/>
-(link to spreadsheet: https://docs.google.com/spreadsheets/d/17zRvzwwiNtiXcRV9rU4kEA-JNNDUuKhEi1iBXxCatS0/edit?usp=sharing)
+<br />
+([Link to the Spreadsheet](https://docs.google.com/spreadsheets/d/17zRvzwwiNtiXcRV9rU4kEA-JNNDUuKhEi1iBXxCatS0/edit?usp=sharing))
 <br />
 <br />
 Optional Step:  <br/>

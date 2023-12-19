@@ -2,15 +2,15 @@
 
 <h2>Description</h2>
 
-📊 Overview:
+📊 **Overview**
   - Conducted a comprehensive risk assessment to enhance data security practices within an organization.
 
-🔍 Key Points:
+🔍 **Key Points**
   - Assessment: Develop and document risk mitigation strategies based on audit findings [NIST SP 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf) 3.1 Media Protection family (MP-1 through MP-8).
   - Prioritization: Objectively identify high-priority risks and effectively communicate them to the organization, fostering an informed and proactive risk management strategy.
   - Frameworks: Employed the assessment scales outlined in [NIST SP 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf), providing a quantifiable framework for identifying and prioritizing risks.
 
-🚀 Objectives:
+🚀 **Objectives**
   - Combine threat modeling results with existing Standard Operating Procedures (SOP) and System Security Plan (SSP) to understand the organization's risks.
   - Tailor risk explanations to resonate with a non-technical audience.
   - Develop strategies to mitigate identified risks.

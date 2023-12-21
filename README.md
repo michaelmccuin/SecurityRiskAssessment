@@ -15,8 +15,6 @@
   - Tailor risk explanations to resonate with a non-technical audience.
   - Develop strategies to mitigate identified risks.
 
-🌐 **Illuminate Risks: Uncover, Assess, Understand**
-
 <h2>Project Walk-Through:</h2>
 
 For the purpose of this project, I will be using the findings from the [Practical Audit](https://github.com/michaelmccuin/PracticalAuditing) I conducted, combined with threat modeling, to understand the risks involved with the organization.
